@@ -1,0 +1,13 @@
+fabregas to win
+ &cntrl
+  imin=0,irest=1,ntx=5,
+  ntb=1,cut=11.0,
+  ntf=1,ntc=2,
+  ntt=3,gamma_ln=5,
+  temp0=300.0,
+  nstlim=200000,dt=0.001,
+  ntpr=1000,ntwr=1000,ntwx=1000,
+  icfe=1,ifsc=1,clambda=0.0,
+  timask1=':1',timask2='',
+  scmask1=':1',scmask2='',
+ /
