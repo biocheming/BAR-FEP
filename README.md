@@ -1,5 +1,6 @@
 # BAR-FEP
-BAR and FEP method for free energy calculation
+**BAR and FEP method for free energy calculation**
+
 **About BAR-FEP:**
 
 This programe give the free energy calculation methods of BAR and FEP. The code is writen in Fortran. Here, we also give an example for calculating the solvation free energy of methane using BAR anf FEP. The input files for MD simulation are listed in the "in" directory.
